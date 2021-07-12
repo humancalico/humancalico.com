@@ -1,16 +1,19 @@
 ---
-name: Tails Azimuth
+name: Akshat Agarwal
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Open Source Developer
+email: humancalico@disroot.org
+twitter: https://twitter.com/humancalico
+linkedin: https://www.linkedin.com/in/humancalico
+github: https://github.com/humancalico
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hey, I'm Akshat. I also go by the alias of humancalico across the internet. I'm
+an open source developer who likes using Rust and Nix.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+When I'm not nagging my friends to use Nix you'll probably find me listening to
+a comedy album or watching a mentally degenerating Adam Sandler movie.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+If you have a question, a suggestion or just want to say hi you can message me
+on [Twitter](https://twitter.com/humancalico) or email at
+[humancalico@disroot.org]() I'd love to hear from you.
